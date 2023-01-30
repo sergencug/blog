@@ -1,7 +1,6 @@
 {
     "name": "sergencug/blog-comp",
     "description": "Laravel Blog Plugin",
-    "type": "composer-plugin",
     "autoload": {
         "psr-4": {
             "Sergencug\\BlogComp\\": "src/",
