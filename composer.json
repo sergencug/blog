@@ -1,0 +1,21 @@
+{
+    "name": "sergencug/blog-comp",
+    "description": "Laravel Blog Plugin",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Sergencug\\BlogComp\\": "src/",
+            "App\\": "app/",
+            "Database\\Factories\\": "database/factories/",
+            "Database\\Seeders\\": "database/seeders/",
+            "Fhsinchy\\Inspire\\": "packages/sergencug/blog-comp/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergen Cuğ",
+            "email": "sergencug@gmail.com"
+        }
+    ],
+    "require": {}
+}
