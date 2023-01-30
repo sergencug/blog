@@ -7,7 +7,7 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/",
-            "Fhsinchy\\Inspire\\": "packages/sergencug/blog-comp/src/"
+            "Sergencug\\Blog\\": "packages/sergencug/blog-comp/src/"
         }
     },
     "authors": [
